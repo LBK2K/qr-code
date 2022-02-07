@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://lbk2k.github.io/qr-code/static/css/main.b3317ec3.css",
+    "main.js": "https://lbk2k.github.io/qr-code/static/js/main.d59a2ec8.js",
+    "static/js/787.bf125a00.chunk.js": "https://lbk2k.github.io/qr-code/static/js/787.bf125a00.chunk.js",
+    "index.html": "https://lbk2k.github.io/qr-code/index.html",
+    "main.b3317ec3.css.map": "https://lbk2k.github.io/qr-code/static/css/main.b3317ec3.css.map",
+    "main.d59a2ec8.js.map": "https://lbk2k.github.io/qr-code/static/js/main.d59a2ec8.js.map",
+    "787.bf125a00.chunk.js.map": "https://lbk2k.github.io/qr-code/static/js/787.bf125a00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3317ec3.css",
+    "static/js/main.d59a2ec8.js"
+  ]
+}
